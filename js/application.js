@@ -6,7 +6,6 @@ $(document).ready(function() {
 	// 	$('.slide').hide;
 	// 	currentSlide = $('.slide')[currentSlideNum];
 
-	// }
-	q	qi	qim	
+
 
 }) 
